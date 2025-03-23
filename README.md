@@ -27,14 +27,14 @@ This project is a **microcontroller-based data logger** that integrates a Real-T
 
 ## 🖼️ Schematic Preview
 
-![Schematic](resim.png)
-
-*(Design created using KiCad 8.0.9)*
+![Schematic](https://github.com/eylolaycan/mcu-datalogger/blob/main/schmatics.png)
 
 ## 🧾 PCB Versions
 
 - **2-Layer Version**: Optimized for low-cost production and basic prototyping.
 - **4-Layer Version**: Includes dedicated power and ground planes for improved performance and reduced noise in analog/digital domains.
+
+  ![PCB](https://github.com/eylolaycan/mcu-datalogger/blob/main/pcb.pdf) (Only 4 Layer Version Available)
 
 ## 🔍 Notes
 
@@ -45,3 +45,5 @@ This project is a **microcontroller-based data logger** that integrates a Real-T
 ## 🔐 License
 
 This project is licensed under the MIT License – feel free to build, modify, and share!
+
+*(Design created using KiCad 8.0.9)*
