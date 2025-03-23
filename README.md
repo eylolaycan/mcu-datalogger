@@ -25,7 +25,7 @@ This project is a **microcontroller-based data logger** that integrates a Real-T
 | Mounting      | 4x Mounting holes for enclosure          |
 | PCB Versions  | 2-layer and 4-layer available            |
 
-## 🖼️ Schematic Preview
+## 🖼️ Schematic
 
 ![Schematic](https://github.com/eylolaycan/mcu-datalogger/blob/main/schmatics.png)
 
