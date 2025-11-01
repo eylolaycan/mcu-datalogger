@@ -25,13 +25,13 @@ This project is a **microcontroller-based data logger** that integrates a Real-T
 
 ## Schematic
 
-![Schematic](https://github.com/eylolaycan/mcu-datalogger/blob/main/schmatics.png)
+![Schematic](/schmatics.png)
 
 ## PCB Versions
 
 - **4-Layer Version**: Includes dedicated power and ground planes for improved performance and reduced noise in analog/digital domains.
 
-  ![PCB](/pcb (2).png)
+  ![PCB](/pcb(2).png)
 
 ## Notes
 
