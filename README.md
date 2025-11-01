@@ -31,7 +31,7 @@ This project is a **microcontroller-based data logger** that integrates a Real-T
 
 - **4-Layer Version**: Includes dedicated power and ground planes for improved performance and reduced noise in analog/digital domains.
 
-  ![PCB](https://github.com/eylolaycan/mcu-datalogger/blob/main/pcb.pdf)
+  ![PCB](/pcb (2).png)
 
 ## Notes
 
