@@ -41,6 +41,6 @@ This project is a **microcontroller-based data logger** that integrates a Real-T
 
 ## License
 
-This project is licensed under the *** License – feel free to build, modify, and share!
+This project is licensed under the CC0 1.0 Universal License – feel free to build, modify, and share!
 
 *(Design created using KiCad 8.0.9)*
